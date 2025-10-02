@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hey, I’m Nixon
+I’ve recently transitioned from real estate into tech, bringing my passion for teamwork, problem-solving, and people-first collaboration along the way.
 
-<!--
-**Ncam00/Ncam00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔄 Transitioned from real estate to tech to challenge myself and future-proof my skills
+💡 Thrived in Dev Academy’s 17-week bootcamp, where I embraced roles like Vibes Watcher and Agile Facilitator
+💻 Built both individual & group projects using modern stacks and agile workflows
+🤝 Strong human skills: empathy, communication, conflict management, and keeping team energy high
+🌱 Currently Learning & Exploring
+Frameworks / Tools: React, Node.js, APIs, TypeScript
+Practices: Agile methodologies, testing, CI/CD
+Project interests: collaborative web apps, user-focused interfaces, full-stack development
+🛠 Tech Stack & Tools
+JavaScript | TypeScript | React | Node.js | Express | SQL | Git | REST APIs | Testing
 
-Here are some ideas to get you started:
+⚡ Fun Fact & Personal Touch
+I love sports — whether in a team or solo — and the energy, communication, and discipline from that world help me thrive in tech too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Let’s Connect
+LinkedIn | Portfolio | nixon.cam997@gmail.com
