@@ -61,7 +61,7 @@ I love sports — whether in a team or solo — and the energy, communication, a
 
 ## Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/nixon-cam/) [Email](mailto:nixon.cam997@gmail.com) [Portfolio]](https://ncam00.github.io)
+[LinkedIn](https://www.linkedin.com/in/nixon-cam/) [Email](mailto:nixon.cam997@gmail.com) [Portfolio](https://ncam00.github.io)
 
 **Location:** Wellington, New Zealand
 
