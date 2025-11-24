@@ -25,7 +25,7 @@ Full-stack AI-powered tutoring platform integrating 6 weeks of AI learning
 - **AI Calculator** - Natural language to mathematical computation with function calling
 - **Data Anonymizer** - PII detection and secure data handling
 
-### **AI Coding Essentials - 100% Completion**
+### **AI Coding Essentials**
 - API fundamentals, prompt engineering, structured outputs with Pydantic
 - Tool use & function calling for building intelligent applications
 - RAG (Retrieval-Augmented Generation) with ChromaDB vector databases
